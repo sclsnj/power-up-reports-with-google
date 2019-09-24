@@ -1,5 +1,5 @@
 # Power Up Reports With Google
-__Google Apps Scripts for use with CARL Ad Hoc Reporting__
+__Google Apps Scripts covered in the RIPL "Power Up Reports with Google" webinar (https://ripl.lrs.org/webinars/)__
 
 These sample Google Apps Scripts (GAS), created by staff at the Somerset County Library System of New Jersey (SCLSNJ), are intended for use with Google Sheets and are customized for SCLSNJ's implementation of the TLC/CARL integrated library system product. Feel free to copy and modify; just make sure to customize for your own data sources.
 
