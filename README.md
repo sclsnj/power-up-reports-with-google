@@ -11,7 +11,7 @@ __People Count Trends__
    * If it finds the file, it appends the data to what's already there
    * If if doesn't find the file, it creates it and then adds the data
  * Looks for Gmail messages received yesterday with a particular label and extracts the .CSV attachment
- * The fancy heat map is all Google Sheets formulas and conditional formatting -- see https://github.com/sclsnj/ad-hoc-gas/blob/master/Heat%20Map.md for more info
+ * The fancy heat map is all Google Sheets formulas and conditional formatting -- see https://github.com/sclsnj/power-up-reports-with-google/blob/master/Heat%20Map%20Instructions.md for more info
 
 __Circ Transaction Trends__
  * Dump and Format method
@@ -21,7 +21,7 @@ __Circ Transaction Trends__
  * Looks for a file matching a particular year + name combination
    * If it finds the file, it appends the data to what's already there
    * If if doesn't find the file, it creates it and then adds the data
- * The fancy heat map is all Google Sheets formulas and conditional formatting -- see https://github.com/sclsnj/ad-hoc-gas/blob/master/Heat%20Map.md for more info
+ * The fancy heat map is all Google Sheets formulas and conditional formatting -- see https://github.com/sclsnj/power-up-reports-with-google/blob/master/Heat%20Map%20Instructions.md for more info
 
 __Monthly Statistics__
  * Parse and Update method
@@ -44,7 +44,7 @@ __High Holds__
  * Bound script needs to be added to the Script Editor for a specific Google Sheet in order to run
  * Runs on demand via menu option
  * VERY complicated query - you'll want to do extensive testing before you embed in the script
-   * See https://github.com/sclsnj/ad-hoc-gas/blob/master/High%20Holds%20annotated.sql for more in-depth info
+   * See https://github.com/sclsnj/power-up-reports-with-google/blob/master/High%20Holds%20annotated.sql for more in-depth info
  * Script includes some added logic to fine-tune hold ratios
  * Inserts new data into a new tab, instead of overwriting existing data
 
