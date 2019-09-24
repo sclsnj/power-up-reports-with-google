@@ -3,6 +3,11 @@ __Google Apps Scripts covered in the RIPL "Power Up Reports with Google" webinar
 
 These sample Google Apps Scripts (GAS), created by staff at the Somerset County Library System of New Jersey (SCLSNJ), are intended for use with Google Sheets and are customized for SCLSNJ's implementation of the TLC/CARL integrated library system product. Feel free to copy and modify; just make sure to customize for your own data sources.
 
+---
+***Coming Soon!*** 
+More links to live Google Sheets files and updated code. (9/24/2019)
+
+---
 __People Count Trends__
  * Dump and Format method
  * Unbound script can be saved as a standalone file
