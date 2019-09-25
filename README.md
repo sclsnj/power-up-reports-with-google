@@ -9,6 +9,7 @@ More links to live Google Sheets files and updated code. (9/24/2019)
 
 ---
 __People Count Trends__
+https://docs.google.com/spreadsheets/d/1mgWnI4pYLN-OMiks8Bv9_ySjoKLEGwiFzQCyUCTr5pY/edit?usp=sharing
  * Dump and Format method
  * Unbound script can be saved as a standalone file
  * Add a time-based trigger to schedule the script to run automatically (ours runs daily)
