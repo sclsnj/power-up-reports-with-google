@@ -10,6 +10,7 @@
  * The main tab of People Count Trends uses dsum functions and conditional formatting to create a heat map
  * of patron traffic that can be filtered by branch and date range.
  *
+ * This script is bound to this Google Sheet: https://docs.google.com/spreadsheets/d/1mgWnI4pYLN-OMiks8Bv9_ySjoKLEGwiFzQCyUCTr5pY/edit
  */
 
 
